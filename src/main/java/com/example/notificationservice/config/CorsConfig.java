@@ -1,4 +1,4 @@
-package com.example.serviceregistration.config;
+package com.example.notificationservice.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
